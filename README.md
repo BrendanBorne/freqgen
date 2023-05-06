@@ -1,5 +1,7 @@
 # A simple stochastic model for evolution
 
+> /!\ Ce modèle a été réalisé dans le cadre d'un projet étudiant visant à introduire des notions de modélisation stochastique en python.
+
 Implémentation d'un modèle d’évolution des fréquences génotypiques d’un marqueur génétique à 2 allèles évoluant selon trois scénarios possibles :
 
 1. Reproduction sexuée panmictique
