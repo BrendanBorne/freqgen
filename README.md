@@ -1,6 +1,6 @@
-# Modélisation stochastique pour l'évolution
+# 🧬 Modélisation stochastique pour l'évolution
 
-## Introduction
+## 📋 Introduction
 
 > Nota Bene : Ce modèle a été réalisé dans le cadre d'un projet étudiant visant à introduire des notions de modélisation stochastique en python. 
 
@@ -14,7 +14,7 @@ Ces populations sont supposées diploïdes, à générations non-chevauchantes, 
 
 Le modèle est stochastique. 100 répétitions sont effectuées dans son implémentation actuelle.
 
-## Dépendances
+## ⚙️ Dépendances
 
 Pour fonctionner, le script a besoin que vous ayez certaines librairies installées sur votre environnement python. Ces librairies sont les suivantes :
 
@@ -26,13 +26,13 @@ Pour fonctionner, le script a besoin que vous ayez certaines librairies install�
 * [math](https://docs.python.org/3/library/math.html)
 * [tqdm](https://github.com/tqdm/tqdm)
 
-## Lancer le script
+## ✅ Lancer le script
 
 Le script se lance simplement avec la commande suivante :
 
 `python3 frequencies.py`
 
-## Sorties
+## 📈 Sorties
 
 Le script produit un ensemble de sorties brutes et graphiques qui seront enregistrées dans le dossier de lancement du script.
 
